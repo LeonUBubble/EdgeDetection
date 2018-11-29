@@ -1,0 +1,3 @@
+server.1=namenode
+server.2=datanode1
+server.3=datanode2
